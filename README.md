@@ -1,6 +1,5 @@
 # ALGORTIMOS_ORDINARIA_Virginia_Diaz_Quilezz
 
-# ALGORITMOS_ORDINARIA_Virginia_Diaz_Quilez
 
 # 1. Ejercicio POO - BookShare
 
