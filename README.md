@@ -1,5 +1,5 @@
 # ALGORTIMOS_ORDINARIA_Virginia_Diaz_Quilezz
-[Link al repositorio:](https://github.com/vdiazqui/ALGORTIMOS_ORDINARIA_Virginia_Diaz_Quilez.git)
+[Link al repositorio de GitHub](https://github.com/vdiazqui/ALGORTIMOS_ORDINARIA_Virginia_Diaz_Quilez.git)
 
 # 1. Ejercicio POO - BookShare
 
